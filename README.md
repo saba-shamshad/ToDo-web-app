@@ -15,3 +15,5 @@ This app allows users to add, delete, and manage their daily tasks efficiently.
 - CSS3
 - JavaScript 
 
+## 🌐 Live Demo
+[Click here to view the live website](https://saba-shamshad.github.io/ToDo-web-app/)
