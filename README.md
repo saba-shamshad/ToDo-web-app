@@ -16,4 +16,4 @@ This app allows users to add, delete, and manage their daily tasks efficiently.
 - JavaScript 
 
 ## 🌐 Live Demo
-[Click here to view the live website](saba-todo-webapp.netlify.app)
+saba-todo-webapp.netlify.app
